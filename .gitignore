@@ -1,0 +1,6 @@
+out/
+temp/
+node_modules/
+*.mp4
+*.mpd
+tests/

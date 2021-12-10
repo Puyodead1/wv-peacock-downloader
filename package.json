@@ -1,0 +1,30 @@
+{
+  "name": "peacock-ripper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aria2": "^4.1.2",
+    "atob": "^2.1.2",
+    "axios": "^0.21.1",
+    "better-logging": "^4.4.1",
+    "centra": "^2.4.2",
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0",
+    "crypto-js": "^4.0.0",
+    "cryptojs-extension": "github:pkaminski/cryptojs-extension",
+    "inquirer": "^7.3.3",
+    "node-fetch": "^2.6.1",
+    "pbf": "^3.2.1",
+    "rimraf": "^3.0.2",
+    "truncate-utf8-bytes": "^1.0.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Puyodead1",
+  "license": "MIT"
+}
